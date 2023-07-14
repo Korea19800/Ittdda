@@ -4,17 +4,12 @@
 - 애플리케이션의 UI는 카카오 오븐으로 대체하여 프론트엔드 부분은 생략하고 벡엔드에 초점을 맞춰 백엔드 개발에 주력
 - 단순 기능 구현 뿐 아니라 성능, 코드의 재사용성 및 유지보수성을 고려하여 구현하는 것을 목표로 개발
 
-
-
 ### ✅ 사용 기술 및 개발 환경
 
 Java, Spring Boot, IntelliJ, Maven, MyBatis, MySQL, Redis, Jenkins, Docker
 
 
-
 ### ✅ Application UI
-
-자세한 사항은 👉 [https://github.com/f-lab-edu/sns-itda/wiki/Application-UI](https://github.com/f-lab-edu/sns-itda/wiki/Application-UI)
 
 예시)
 
@@ -33,16 +28,7 @@ Java, Spring Boot, IntelliJ, Maven, MyBatis, MySQL, Redis, Jenkins, Docker
 
 ### ✅ ERD
 
-자세한 사항은 👉 [https://github.com/f-lab-edu/sns-itda/wiki/ERD](https://github.com/f-lab-edu/sns-itda/wiki/ERD)
-
 ![](https://user-images.githubusercontent.com/50859560/103099160-b69cf600-4650-11eb-8bf6-505cbff6cf9a.png)
-
-
-
-### ✅ 주요 기능
-
-* [각 기능별 비즈니스 로직](https://github.com/f-lab-edu/sns-itda/wiki/Business-Rule)
-* [각 기능별 Use Case](https://github.com/f-lab-edu/sns-itda/wiki/Use-Case)
 
 ▶ 사용자
 
@@ -57,8 +43,6 @@ Java, Spring Boot, IntelliJ, Maven, MyBatis, MySQL, Redis, Jenkins, Docker
 
 
 ### ✅ 프로젝트를 진행하며 고민한 Technical Issue
-
-자세한 사항은 👉 [https://github.com/f-lab-edu/sns-itda/wiki/Technical-Issue](https://github.com/f-lab-edu/sns-itda/wiki/Technical-Issue)
 
 * 분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현
 * AOP를 적용하여 부가 로직 제거
