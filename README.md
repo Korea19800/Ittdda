@@ -16,14 +16,9 @@ Java, Spring Boot, IntelliJ, Maven, MyBatis, MySQL, Redis, Jenkins, Docker
 ![Part of Application UI](https://user-images.githubusercontent.com/50859560/91076861-153e6d00-e67b-11ea-97e3-a23e9b925ab8.jpg)
 
 
-
 ### ✅ Architecture
 
-- [MySQL Architecture](https://github.com/f-lab-edu/sns-itda/wiki/MySQL-Architecture)
-- [Redis Architecture](https://github.com/f-lab-edu/sns-itda/wiki/Redis-Architecture)
-
 ![Architecture](https://user-images.githubusercontent.com/50859560/103137857-31791600-4710-11eb-9783-8a03dac3242c.png)
-
 
 
 ### ✅ ERD
